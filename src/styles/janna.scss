@@ -1,0 +1,30 @@
+@import "./variables.scss";
+
+h1,
+h2,
+h3 {
+  margin: 0;
+}
+
+.janna {
+  background-color: $dark-teal;
+
+  .janna-container * {
+    color: white;
+    font-family: "Hanken Grotesk", sans-serif;
+  }
+  .janna-container {
+    .janna-name {
+      font-weight: 700;
+      font-size: clamp(1.2rem, 6vw, 2.7rem);
+    }
+    .janna-title {
+      font-weight: 500;
+      font-size: clamp(1rem, 4vw, 2.2rem);
+    }
+    .janna-socials-img {
+      width: clamp(2rem, 4vw, 2.2rem);
+      height: auto;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+@import "./variables.scss";
+
+.navbar {
+  height: 7rem;
+  background-color: $dark-teal;
+
+  .navbar-container {
+    height: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+
+    #hamburger-btn {
+      margin-right: 2rem;
+    }
+  }
+}
