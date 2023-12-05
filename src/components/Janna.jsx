@@ -10,14 +10,14 @@ export default function Janna() {
         <div className="janna-socials">
           <a href="" className="janna-socials-link">
             <img
-              src={"/images/facebook-icon.png"}
+              src="/images/facebook-icon.png"
               alt=""
               className="janna-socials-img"
             />
           </a>
           <a href="" className="janna-socials-link">
             <img
-              src={`/images/linkedin-icon.png`}
+              src="/images/linkedin-icon.png"
               alt=""
               className="janna-socials-img"
             />
