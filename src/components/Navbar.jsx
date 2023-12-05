@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="navbar-container">
         <a href="" id="hamburger-btn">
           <img
-            src="/public/images/hamburger-icon.png"
+            src="/images/hamburger-icon.png"
             alt=""
             className="hamburger-btn-img"
           />
