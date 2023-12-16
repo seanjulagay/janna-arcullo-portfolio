@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/navbar.scss";
+import "../styles/index.scss";
 
 export default function Navbar() {
   return (
@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="navbar-container">
         <a href="" id="hamburger-btn">
           <img
-            src="/images/hamburger-icon.png"
+            src="/images/icons/hamburger-icon.png"
             alt=""
             className="hamburger-btn-img"
           />
