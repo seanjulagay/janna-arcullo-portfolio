@@ -1,0 +1,14 @@
+.project-palette {
+  .project-palette-container {
+    .project-palette-text-container {
+    }
+    .project-palette-img-container {
+      display: flex;
+      flex-direction: column;
+      .project-palette-img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+}

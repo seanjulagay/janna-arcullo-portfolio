@@ -1,7 +1,17 @@
 @use "./globals";
 
-@use "./components/app";
+@use "./components/home";
 @use "./components/homegallery";
 @use "./components/janna";
 @use "./components/navbar";
 @use "./components/previewcard";
+
+@use "./components/Projects/uniqto";
+
+@use "./components/ProjectComponents/projectcomponents";
+@use "./components/ProjectComponents/projectheader";
+@use "./components/ProjectComponents/projectoverview";
+@use "./components/ProjectComponents/projectdetails";
+@use "./components/ProjectComponents/projectprocess";
+@use "./components/ProjectComponents/projectdesign";
+@use "./components/ProjectComponents/projectpalette";

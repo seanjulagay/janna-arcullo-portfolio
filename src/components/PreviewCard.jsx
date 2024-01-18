@@ -1,11 +1,12 @@
 import React from "react";
-import "../styles/index.scss";
+import { Link } from "react-router-dom";
 
 export default function PreviewCard({
   title = "PlaceholderTitle",
   desc = "PlaceholderDesc",
   image,
   hoverImage,
+  path = "/",
 }) {
   // handle image grabbing from /public folder
   let cardImage = {
@@ -26,7 +27,7 @@ export default function PreviewCard({
   }
 
   return (
-    <a href="" className="preview-card-btn">
+    <Link to={path} className="preview-card-btn">
       <div className="preview-card" style={cardImage}>
         <div className="preview-card-hover">{genHoverImage}</div>
         <div className="preview-card-container">
@@ -36,6 +37,9 @@ export default function PreviewCard({
           </div>
         </div>
       </div>
-    </a>
+    </Link>
+    // <a href="" className="preview-card-btn">
+
+    // </a>
   );
 }

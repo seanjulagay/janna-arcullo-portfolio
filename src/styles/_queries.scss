@@ -26,3 +26,25 @@ $xl: 1200px;
     @content;
   }
 }
+
+@media (min-width: $small) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media (min-width: $medium) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: $large) {
+  html {
+    // font-size: 62.5%;
+    font-size: 15px;
+  }
+}
+
+// @media (min-width: $xl) {
+// }

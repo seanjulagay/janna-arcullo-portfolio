@@ -1,0 +1,19 @@
+@use "../../variables" as *;
+
+.project-design {
+  .project-design-container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+
+    .project-design-img-container {
+      display: flex;
+      flex-direction: column;
+      .project-design-img {
+        width: 100%;
+        height: auto;
+        box-shadow: 0 10px 20px lightgray;
+      }
+    }
+  }
+}

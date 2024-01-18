@@ -73,9 +73,6 @@ $transition-duration: 0.2s;
             font-size: 1.6rem;
           }
         }
-        @include xl {
-          margin: 0 3rem 3rem 0;
-        }
       }
       .preview-card-img {
         width: 10rem;

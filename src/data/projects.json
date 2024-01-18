@@ -3,54 +3,325 @@
     "title": "Uniqto",
     "description": "Inventory System",
     "image": "card-bg-uniqto.png",
-    "hoverImage": null
+    "hoverImage": null,
+    "path": "uniqto",
+    "sections": {
+      "overview": "In my freshman year Java Programming class, we teamed up to create **\"Uniqto,\"** an e-commerce-inspired inventory system. I took on the roles of **UI/UX and graphic designer**, facing challenges like low-specs device limitations during the design phase. Despite my first-time coding in Java, our teamwork resulted in a high-grade, fully functional inventory system. This project highlighted **adaptability**, **perseverance**, and **successful collaboration** across design and development within our team.",
+      "problem": null,
+      "solution": null,
+      "tools": [
+        "Adobe Photoshop",
+        "JCreator"
+      ],
+      "team": [
+        "2 designers",
+        "3 developers"
+      ],
+      "role": [
+        "UI/UX designer",
+        "Graphic Designer",
+        "Developer"
+      ],
+      "timeline": [
+        "Overall: 17 weeks",
+        "Planning: 2 weeks",
+        "Design development & testing: 13 weeks"
+      ],
+      "designProcess": [
+        "Brainstorm",
+        "Plan",
+        "Design",
+        "Code",
+        "Test"
+      ],
+      "uiDesign": "**Uniqto** is an e-commerce application that features an inventory system for browsing and purchasing authentic apparel from various brands. Inspired by H&M's vibrant visual style, the design draws from 2020 UI trends and clothing brand aesthetics. Iterative development, incorporating feedback from developers and users, has resulted in a user-friendly design optimized for laptops and computers. Prioritizing **simplicity**, Uniqto offers efficient inventory monitoring and a seamless shopping experience, making it a unique and engaging platform for online apparel shopping.",
+      "uiDesignImg": "uniqto/uniqto-uiDesign.png",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "Uniqto's color palette, inspired by H&M, is a lively fusion of bold reds and modern neutrals.",
+      "paletteFontImg": "uniqto/uniqto-paletteFont.png",
+      "learnings": "This project greatly enhanced my graphic design and time management skills. Additionally, I attained proficiency in Java language and improved my collaboration abilities. I also gained insights into exploring font sizes and their appropriate applications in designing high-fidelity wireframes. This project emphasized respecting team members' time and boosted my initiative in group projects. A major lesson learned was the importance of seeking feedback from developers and users, shaping a more collaborative and user-centric design approach."
+    }
   },
   {
     "title": "MATH WARS: Card Edition",
     "description": "Basic math game for kids",
     "image": "card-bg-mathwars.png",
-    "hoverImage": "hover-bg-mathwars.png"
+    "hoverImage": "hover-bg-mathwars.png",
+    "path": "math-wars",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcess": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   },
   {
     "title": "EKCO",
     "description": "Mobile messaging app",
     "image": "card-bg-ekco.png",
-    "hoverImage": null
+    "hoverImage": null,
+    "path": "ekco",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcesss": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   },
   {
     "title": "ReelTime",
     "description": "Interactive streaming app",
     "image": "card-bg-reeltime.png",
-    "hoverImage": null
+    "hoverImage": null,
+    "path": "reeltime",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcess": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   },
   {
     "title": "ShopStyle",
     "description": "E-commerce web interface",
     "image": "card-bg-shopstyle.png",
-    "hoverImage": null
+    "hoverImage": null,
+    "path": "shopstyle",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcess": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   },
   {
     "title": "Cybershop Inc.",
     "description": "Cybermall landing page",
     "image": "card-bg-cybershop.png",
-    "hoverImage": null
+    "hoverImage": null,
+    "path": "cybershop-inc",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcess": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   },
   {
     "title": "PROJECT: OUTBREAK",
     "description": "FPS shooter game",
     "image": "card-bg-projectoutbreak.png",
-    "hoverImage": null
+    "hoverImage": null,
+    "path": "project-outbreak",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcess": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   },
   {
     "title": "La Salle Rush!",
     "description": "Game-based virtual campus tour",
     "image": "card-bg-lasallerush.png",
-    "hoverImage": "hover-bg-lasallerush.png"
+    "hoverImage": "hover-bg-lasallerush.png",
+    "path": "la-salle-rush",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcess": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   },
   {
     "title": "Smile Solutions",
     "description": "Dental clinic website",
     "image": "card-bg-smilesolutions.png",
-    "hoverImage": null
+    "hoverImage": null,
+    "path": "smile-solutions",
+    "sections": {
+      "overview": "",
+      "problem": "",
+      "solution": "",
+      "tools": [
+        ""
+      ],
+      "team": [
+        ""
+      ],
+      "role": [
+        ""
+      ],
+      "timeline": [
+        ""
+      ],
+      "designProcess": [
+        ""
+      ],
+      "uiDesign": "",
+      "uiDesignImg": "",
+      "previewImages": [
+        ""
+      ],
+      "paletteFont": "",
+      "paletteFontImg": "",
+      "learnings": ""
+    }
   }
 ]

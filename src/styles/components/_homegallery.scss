@@ -1,4 +1,5 @@
 @use "../queries" as *;
+@use "../variables" as *;
 
 .home-gallery {
   align-items: center;
@@ -15,7 +16,7 @@
     height: 100%;
     justify-content: center;
     max-width: 130rem;
-    padding: 2rem;
+    padding: 3rem;
     width: 100%;
 
     @include lg {
@@ -26,9 +27,9 @@
   }
   // margin-left dependent on _janna.scss include lg xl width
   @include lg {
-    margin-left: 40vw;
+    margin-left: $homepage-about-div-width;
   }
-  @include xl {
-    margin-left: 35vw;
-  }
+  // @include xl {
+  //   margin-left: 35vw;
+  // }
 }
